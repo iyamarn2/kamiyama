@@ -1,0 +1,2 @@
+def kamiyama():
+    print('kamiyama')
